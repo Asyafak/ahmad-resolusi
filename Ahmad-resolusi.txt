@@ -1,6 +1,9 @@
-my reosolusI
+my reosolusi
 1. to be professional front end web 
 2. to be professional html 
 3. to be professional css
 4. to be professional javascript
-5. I will make simple websites 
+5. make app calculator use java script
+
+my resolus success 
+1. create simple websites 
