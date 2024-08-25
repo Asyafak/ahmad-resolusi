@@ -1,6 +1,9 @@
 file ini hanya impian saya yaitu
 - ahli react
 - node js
--tailwind
+  install tailwind
+  install react
+- tailwind
+
 
 semoga rencana khayalan saya bisa secepatnya bisa menguasai atau memahinya dalam waktu dekat
