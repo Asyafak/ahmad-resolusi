@@ -6,6 +6,7 @@ file ini hanya impian saya yaitu
   install tailwind
   install react
 - tailwind
+  -pelajari cara pakai function
 - my sql
 
 
