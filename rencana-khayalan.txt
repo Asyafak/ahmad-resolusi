@@ -1,5 +1,6 @@
 file ini hanya impian saya yaitu
-- ahli react native
+- ahli react native 
+- ahli react
 - node js
   install tailwind
   install react
@@ -7,6 +8,7 @@ file ini hanya impian saya yaitu
   - biar simple
   - gampang 
 - mysql
+- html 5
 
 
 semoga rencana khayalan saya bisa secepatnya bisa menguasai atau memahinya dalam waktu dekat
