@@ -1,14 +1,14 @@
 file ini hanya impian saya yaitu
 - ahli react native 
 - ahli react
+  - buat kalkulator bro
+  - buat web online shop bro
 - node js
   install tailwind
   install react
-- bootstrap 
-  - biar simple
-  - gampang 
-- mysql
-- html 5
+- tailwind
+  -pelajari cara pakai function
+- my sql
 
 
 semoga rencana khayalan saya bisa secepatnya bisa menguasai atau memahinya dalam waktu dekat
