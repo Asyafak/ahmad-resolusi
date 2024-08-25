@@ -1,9 +1,12 @@
 file ini hanya impian saya yaitu
-- ahli react
+- ahli react native
 - node js
   install tailwind
   install react
-- tailwind
+- bootstrap 
+  - biar simple
+  - gampang 
+- mysql
 
 
 semoga rencana khayalan saya bisa secepatnya bisa menguasai atau memahinya dalam waktu dekat
